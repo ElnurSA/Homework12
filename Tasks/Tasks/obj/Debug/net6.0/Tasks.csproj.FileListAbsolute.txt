@@ -1,0 +1,15 @@
+/Users/safiyevelnur/Desktop/AllCode/Tasks/Tasks/obj/Debug/net6.0/Tasks.csproj.AssemblyReference.cache
+/Users/safiyevelnur/Desktop/AllCode/Tasks/Tasks/obj/Debug/net6.0/Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safiyevelnur/Desktop/AllCode/Tasks/Tasks/obj/Debug/net6.0/Tasks.AssemblyInfoInputs.cache
+/Users/safiyevelnur/Desktop/AllCode/Tasks/Tasks/obj/Debug/net6.0/Tasks.AssemblyInfo.cs
+/Users/safiyevelnur/Desktop/AllCode/Tasks/Tasks/obj/Debug/net6.0/Tasks.csproj.CoreCompileInputs.cache
+/Users/safiyevelnur/Desktop/AllCode/Tasks/Tasks/bin/Debug/net6.0/Tasks
+/Users/safiyevelnur/Desktop/AllCode/Tasks/Tasks/bin/Debug/net6.0/Tasks.deps.json
+/Users/safiyevelnur/Desktop/AllCode/Tasks/Tasks/bin/Debug/net6.0/Tasks.runtimeconfig.json
+/Users/safiyevelnur/Desktop/AllCode/Tasks/Tasks/bin/Debug/net6.0/Tasks.dll
+/Users/safiyevelnur/Desktop/AllCode/Tasks/Tasks/bin/Debug/net6.0/Tasks.pdb
+/Users/safiyevelnur/Desktop/AllCode/Tasks/Tasks/obj/Debug/net6.0/Tasks.dll
+/Users/safiyevelnur/Desktop/AllCode/Tasks/Tasks/obj/Debug/net6.0/refint/Tasks.dll
+/Users/safiyevelnur/Desktop/AllCode/Tasks/Tasks/obj/Debug/net6.0/Tasks.pdb
+/Users/safiyevelnur/Desktop/AllCode/Tasks/Tasks/obj/Debug/net6.0/Tasks.genruntimeconfig.cache
+/Users/safiyevelnur/Desktop/AllCode/Tasks/Tasks/obj/Debug/net6.0/ref/Tasks.dll

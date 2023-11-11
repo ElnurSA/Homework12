@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{543C28EB-F580-4502-B6E5-E86899E0ADCE}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="248" Column="31" />
+      <File FileName="Generics.cs" Line="32" Column="50" />
+      <File FileName="Product.cs" Line="6" Column="15" />
+      <File FileName="Models/BaseEntity.cs" Line="10" Column="1" />
+      <File FileName="Exceptions/LessThanZero.cs" Line="6" Column="22" />
+      <File FileName="Models/Animal.cs" Line="9" Column="18" />
+      <File FileName="Models/Bird.cs" Line="6" Column="36" />
+      <File FileName="Models/Fish.cs" Line="4" Column="28" />
+      <File FileName="Models/Shark.cs" Line="10" Column="1" />
+      <File FileName="Services/IProductService.cs" Line="8" Column="38" />
+      <File FileName="Services/ProductService.cs" Line="21" Column="10" />
+      <File FileName="Data/AppDbContext.cs" Line="12" Column="13" />
+      <File FileName="Controllers/ProductController.cs" Line="31" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practice" expanded="True">
+            <Node name="Practice">
+              <Node name="Services" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Practice PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

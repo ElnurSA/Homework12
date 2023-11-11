@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{75F58FDC-6D9E-44BD-8243-A9011525F72D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Tasks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="15" Column="1" />
+      <File FileName="Models/Author.cs" Line="7" Column="25" />
+      <File FileName="Services/AuthorService.cs" Line="18" Column="75" />
+      <File FileName="Services/IAuthorService.cs" Line="9" Column="30" />
+      <File FileName="Data/AppDbContext.cs" Line="101" Column="15" />
+      <File FileName="Controller/AuthorController.cs" Line="22" Column="36" />
+      <File FileName="Models/Employee.cs" Line="7" Column="27" />
+      <File FileName="Services/EmployeeService.cs" Line="24" Column="82" />
+      <File FileName="Services/IEmployeeService.cs" Line="9" Column="71" />
+      <File FileName="Controller/EmployeeController.cs" Line="28" Column="36" />
+      <File FileName="Models/User.cs" Line="6" Column="22" />
+      <File FileName="Models/Products.cs" Line="7" Column="19" />
+      <File FileName="Services/UserService.cs" Line="21" Column="57" />
+      <File FileName="Services/IUserService.cs" Line="8" Column="9" />
+      <File FileName="Controller/UserController.cs" Line="26" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tasks" expanded="True">
+            <Node name="Tasks">
+              <Node name="Data" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
